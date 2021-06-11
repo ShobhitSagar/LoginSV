@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginSV</string>
+    <string name="welcome">Welcome</string>
+    <string name="hl1_description">The GPS Phone Tracking Pro App makes it easy to keep track of life’s essentials; use it to:</string>
+    <string name="small1_description">•\tFind Your Friends – and get directions to their location.</string>
+    <string name="small11_description">•\tFind Your Phone – check the app’s Web site to find a lost device.</string>
+    <string name="small12_description">•\tStay Connected – discover your friends’ whereabouts at any time simply by checking the GPS Phone Tracking Pro map.</string>
+    <string name="hl2_description">The GPS Phone Tracking Pro does it all. This handy, easy-to-use app leverages the latest technology to help you stay connected in real time to the people (and the devices) that matter most. GPS Phone Tracking Pro functions, features and benefits include:</string>
+    <string name="small2_description">GPS Phone Tracking Pro uses GPS coordinates and state-of-the-art GPS location data to report the real-time whereabouts of your friends. Simply install the GPS tracker app on your phone and your friends’ phones. Once registered, each friend appears as a unique icon on the GPS Tracking Pro’s navigational map so you’ll know exactly where each friend is, at all times. Want to know instantly which friends arrived at a party, theater, museum or another planned meet up point? Want to figure out if anyone is stuck in traffic, made a wrong turn or even worse – if your habitually late friend has even left his/her house yet? No need to send annoying “Where are your?” or “What’s your ETA?” texts, GPS Phone Tracking Pro puts this information at your fingertips. And to make life super easy, GPS Tracking Pro can send alerts the moment your friends arrive at the appointed location!</string>
+    <string name="myimage">myImage</string>
+    <string name="bgimage">bgImage</string>
+</resources>
